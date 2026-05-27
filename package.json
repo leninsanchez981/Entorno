@@ -1,0 +1,24 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ejercicio1": "ts-node src/ejercicio1.ts",
+    "ejercicio2": "ts-node src/ejercicio2.ts",
+    "ejercicio3": "ts-node src/ejercicio3.ts",
+    "ejercicio4": "ts-node src/ejercicio4.ts"
+  },
+
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+
+  "devDependencies": {
+    "@types/node": "^20.9.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.0.5"
+  }
+}
